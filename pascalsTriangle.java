@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class pascalTriangle {
+public class pascalsTriangle {
     public List<List<Integer>> generate(int numRows) {
         // list to store rows
         List<List<Integer>> triangle = new ArrayList<>();
