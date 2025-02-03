@@ -16,7 +16,7 @@ Output:
  [1, 4, 6, 4, 1]
 ]
 
-3. Spiral Matrix
+2. Spiral Matrix
 Given an m x n matrix, return all elements of the matrix in spiral order.
 
 Example:
